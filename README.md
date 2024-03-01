@@ -17,3 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Ejemplo De Entre Paginas
+![image](https://github.com/JAcevedoCastro/p12_entrepaginas_6j/assets/144373213/2d1249cd-b632-435f-8739-91abbe60e9bf)
+![image](https://github.com/JAcevedoCastro/p12_entrepaginas_6j/assets/144373213/af6ab30c-1de9-4efe-b8d2-0be1c98d125b)
+
+# Link De Referencia
+- https://docs.flutter.dev/
+- https://docs.flutter.dev/ui/widgets
+- https://docs.flutter.dev/ui/widgets/layout
