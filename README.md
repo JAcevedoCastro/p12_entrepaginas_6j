@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Ejemplo De Entre Paginas
 ![image](https://github.com/JAcevedoCastro/p12_entrepaginas_6j/assets/144373213/2d1249cd-b632-435f-8739-91abbe60e9bf)
-![Uploading image.png…]()
+![image](https://github.com/JAcevedoCastro/p12_entrepaginas_6j/assets/144373213/1ee0eef2-6d0a-44d6-9216-f0711ab497bd)
+
 
 # Link De Referencia
 - https://docs.flutter.dev/
